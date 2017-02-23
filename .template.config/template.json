@@ -1,0 +1,12 @@
+{
+  "author": "Some Author",
+  "classifications": ["myTemplate"],
+  "name": "myTemplate",
+  "identity": "myTemplate",
+  "shortName": "myTemplate",
+  "tags": {
+    "language": "C#",
+    "type": "solution"
+  },
+  "sourceName": "myTemplate"
+}
